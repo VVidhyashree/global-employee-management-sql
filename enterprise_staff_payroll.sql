@@ -1,4 +1,4 @@
--- Global Workforce & Payroll Database Project (MySQL)
+-- Global employee & Payroll Database Project (MySQL)
 --create table employees
 CREATE TABLE Employees (
   EmployeeID INT PRIMARY KEY,
